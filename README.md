@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This app is a clone of Tesla website and it can be accessed through [https://tesla-clone-ninad.netlify.app/](https://tesla-clone-ninad.netlify.app/).
+
+This was created using React and Redux + styled components
 
 ## Available Scripts
 
